@@ -2,13 +2,13 @@
 
 - **Community and Collaboration**
   - [ ] Does my project have a community section?
-  - [ ] Is there a code of conduct established for contributors?
+  - [x] Is there a code of conduct established for contributors?
   - [x] Are clear guidelines provided for first-time contributors?
 
 - **Documentation Structure**
-  - [ ] Does the documentation have a logical and easily navigable structure?
-  - [ ] Is a table of contents offered for quick reference?
-  - [ ] Are there clear and relevant examples in the documentation?
+  - [x] Does the documentation have a logical and easily navigable structure?
+  - [x] Is a table of contents offered for quick reference?
+  - [x] Are there clear and relevant examples in the documentation?
 
 - **Feedback and Improvement**
   - [ ] Does the documentation have an option for adding feedback or comments?
